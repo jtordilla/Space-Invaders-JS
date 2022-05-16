@@ -1,0 +1,18 @@
+canvas {
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+canvas {
+    margin: 5px;
+}
+
+p1 {
+    font-size: 18px;
+    font-family: Helvetica;
+    font-weight: 1.2;
+    line-height: 1.8;
+}
